@@ -222,8 +222,9 @@ main {
 /* portfolio project images */
 /* TODO: Add portfolio project images here*/
 #project1 {
-  background-image: url(assets/images/james-woodrow-violin.png);
+  background-image: url("../images/james-woodrow-violin.png");
   background-size: cover;
+  
 }
 
 /* media queries */
